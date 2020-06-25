@@ -1,4 +1,4 @@
-package mydecode_csv_fields
+package main
 
 import (
 	"bufio"
